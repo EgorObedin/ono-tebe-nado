@@ -317,8 +317,6 @@ body {
   font-style: normal;
   text-align: left;
   text-underline-position: under;
-  display: flex;
-  flex-direction: column;
   flex-shrink: 0;
 }
 
@@ -330,7 +328,6 @@ body {
 .footer__menu_list-item {
   text-align: center;
   list-style: none;
-  display: flex;
   flex-shrink: 0;
 }
 
